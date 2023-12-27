@@ -46,11 +46,11 @@ canvas {
 }
 
 #nav h1{
-    font-size: 50px;
+    font-size: 31px;
     position: absolute;
     z-index: 99;
     text-align: center;
-    top: 38%;
+    top: 45%;
     font-weight: 500;
     left: 50%;
     transform: translate(-50%, -50%);
